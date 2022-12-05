@@ -1,0 +1,3 @@
+# Taki_Project_C
+1st Year first semester project.
+TAKI game...
