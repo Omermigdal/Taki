@@ -1,3 +1,3 @@
 # Taki_Project_C
 1st Year first semester project.
-TAKI game...
+Reduced version of TAKI card game
